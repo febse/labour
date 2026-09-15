@@ -1,2 +1,0 @@
-https://github.com/rmcelreath/rethinking/blob/master/data/rugged.csv
-
