@@ -6,41 +6,11 @@ execute:
   enabled: false
 
 book:
-  title: "Introduction to Linear Regression Analysis"
+  title: "Labour Economics 2026"
   author: "Boyko Amarov"
   date: last-modified
   chapters:
     - index.qmd
-    # - Homework.qmd
-    - 00-Recommended-Literature.qmd
-    # - 03-CLT.ipynb
-    # - 02-Distributions-Class.ipynb
-    # - 01-Descriptive-Statistics-Class.ipynb
-    - 01-Introduction-to-R.ipynb
-    - 02-Descriptive-Statistics.ipynb
-    # - 03-2-Least-Squares.qmd
-    - 03-1-Discrete-Distributions.ipynb
-    - 03-2-Continuous-Distributions.ipynb
-    - 03-3-CLT.ipynb
-    - 03-1-Least-Squares.ipynb
-    - 03-OLS-Geometry.ipynb
-    # - 03-1-Least-Squares.qmd
-    # - 03-2-Least-Squares.qmd
-    # - 05-One-Way-ANOVA.qmd
-    # - 06-Simulation.qmd
-    # - 07-Simulation-Tests-Ex.qmd
-    - 08-Multiple-Regression.ipynb
-    - 06-Simulation-Class.ipynb
-    # - 09-Categorical-Variables.ipynb
-    # - 10-Interaction-Effects.ipynb
-    # - 11-Confidence-Intervals.ipynb
-
-    # - lecture_problems.qmd
-    # - 00-Homework-Instructions.qmd  
-    # - 02a-Continuous-Distributions.qmd
-    # - 03-Simple-Linear-Model.qmd
-    # - 04-Simple-ANOVA.qmd
-    # - 05-Hypothesis-Testing-and-CI.qmd
     - references.qmd
 
 bibliography: references.bib

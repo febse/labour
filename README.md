@@ -1,1 +1,1 @@
-# econ2025
+# Labour Economics 2026
