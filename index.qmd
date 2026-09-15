@@ -1,0 +1,49 @@
+# General Information {#sec-general-info .unnumbered}
+
+::: callout-note
+## Website URL
+
+[{{< var url >}}]({{< var url >}}){style="font-size:2em"}
+
+![](figures/qr_code.png)
+:::
+
+## Notebooks
+
+- [01-Descriptive-Statistics-Class.ipynb]({{< var colabPrefix >}}01-Descriptive-Statistics-Class.ipynb)
+
+- [Discrete distributions](https://www.desmos.com/calculator/8qjdx4zkhg)
+
+- [The uniform distribution](https://www.desmos.com/calculator/cwqbsrgjpr)
+
+- [The Central Limit Theorem](https://colab.research.google.com/github/febse/econ2026/blob/main/03-CLT.ipynb)
+
+- [The Normal distribution](https://www.desmos.com/calculator/nnyfn7xq1h)
+
+- [OLS - intercept only](https://colab.research.google.com/github/febse/econ2026/blob/main/03-Least-Squares-Intercept.ipynb)
+
+- [OLS - simple](https://colab.research.google.com/github/febse/econ2026/blob/main/03-Least-Squares-Simple.ipynb)
+
+- [OLS Geometry](https://www.desmos.com/geometry/k2yatxmvnl)
+
+- [OLS Class](https://colab.research.google.com/github/febse/econ2026/blob/main/03-1-Least-Squares-Class.ipynb)
+
+- [Multiple Regression](https://colab.research.google.com/github/febse/econ2026/blob/main/08-Multiple-Regression-Class.ipynb)
+
+- [Multiple Regression 1](https://colab.research.google.com/github/febse/econ2026/blob/main/08-Multiple-Regression-Data-Generation.ipynb)
+
+- [OLS with one predictor](https://colab.research.google.com/github/febse/econ2026/blob/main/03-Least-Squares.ipynb)
+
+- [Distribution of the OLS estimates](https://colab.research.google.com/github/febse/econ2026/blob/main/06-Simulation-Class.ipynb)
+
+- [Hypothesis Tests](https://colab.research.google.com/github/febse/econ2026/blob/main/06-Simulation-Tests.ipynb)
+
+- [Interaction Terms](https://colab.research.google.com/github/febse/econ2026/blob/main/10-Interaction.ipynb)
+
+
+## Time Series Notebooks
+
+- [Introduction](https://colab.research.google.com/github/febse/econ2026/blob/main/01-Time-Series-Intro.ipynb)
+- [Unit-Root tests](https://colab.research.google.com/github/febse/econ2026/blob/main/02-Time-Series-UR.ipynb)
+- [ARMA model selection](https://colab.research.google.com/github/febse/econ2026/blob/main/02-Time-Series-Arima.ipynb)
+- [GARCH](https://colab.research.google.com/github/febse/econ2026/blob/main/01-Time-Series-GARCH.ipynb)
