@@ -1,7 +1,6 @@
 # Homework Assignment {.unnumbered}
 
-Please find the homework assignment here and register your team
-**by June 10-th, 2025**.
+Please find the homework assignment here and register your team **by June 10-th, 2025**.
 
 <https://classroom.github.com/a/C083u_dC>
 
@@ -18,4 +17,3 @@ Please find the homework assignment here and register your team
 ![Open the repository](figures/hw/05-Open-Repo.png)
 
 5.  This is it, you repository is now configured and you will receive a notification when your assignment is available. If you have any questions, please email me at [amarov\@feb.uni-sofia.bg](mailto:amarov@feb.uni-sofia.bg).
-   

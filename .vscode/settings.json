@@ -1,4 +1,8 @@
 {
+    "workbench.editorAssociations": {
+        "*.md": "default",
+        "*.qmd": "default"
+    },
     "cSpell.words": [
         "Amarov",
         "ANOVA",
