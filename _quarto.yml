@@ -11,6 +11,10 @@ book:
   date: last-modified
   chapters:
     - index.qmd
+    # - notebooks/regression_short_intro.ipynb
+    - 02-01-Labour-Supply-Exercises.ipynb
+    # - 02-02-Labour-Supply-Problems.ipynb
+    - videos.qmd
     - references.qmd
 
 bibliography: references.bib
@@ -19,5 +23,7 @@ format:
   html:
     theme: cosmo
     html-math-method: katex
+    code-fold: true
+    code-summary: "Код"
 
 editor: visual

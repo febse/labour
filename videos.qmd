@@ -1,0 +1,18 @@
+# Видео {#sec-videos .unnumbered}
+
+## Cobb-Douglas Utility
+
+{{< video figures/02-supply/CobbDouglasUtility.mp4 >}}
+
+## Distance and Slope
+
+{{< video figures/02-supply/DistanceAndSlope_chapters.mp4 >}}
+
+
+## Derivatives
+
+{{< video figures/02-supply/Derivatives_chapters.mp4 >}}
+
+## Partial Derivatives
+
+{{< video figures/02-supply/PartialDerivatives_chapters.mp4 >}}
