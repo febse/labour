@@ -100,3 +100,28 @@ def curve_from_elasticity(w0, E0, elasticity):
         return w0 * (np.asarray(E, dtype=float) / E0) ** (1 / elasticity)
 
     return E_of_w, w_of_E
+
+
+# ---------------------------------------------------------------------------
+# Chapter 4-7: cobweb model (linear curves through (E0, w0), same elasticities
+# as `market`; demand shifts up by `shock` at t = 0)
+# ---------------------------------------------------------------------------
+cobweb = SimpleNamespace(
+    shock=0.25,  # proportional upward shift of the demand intercept
+    T=20,  # periods to simulate
+    lam=0.5,  # adaptive-expectations weight on the latest wage
+    N=20000,  # simulated students in the micro version
+    seed=1,
+)
+
+
+def linear_market(w0=None, E0=None, eps_S=None, delta=None):
+    """Linear curves w = a - b E (demand) and E = c + d w (supply) that pass
+    through (E0, w0) with the given point elasticities."""
+    w0 = market.w0 if w0 is None else w0
+    E0 = market.E0 if E0 is None else E0
+    eps_S = market.eps_S if eps_S is None else eps_S
+    delta = market.delta if delta is None else delta
+    d = eps_S * E0 / w0
+    b = w0 / (abs(delta) * E0)
+    return SimpleNamespace(a=w0 + b * E0, b=b, c=E0 - d * w0, d=d, w0=w0, E0=E0)
