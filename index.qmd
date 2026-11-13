@@ -8,7 +8,11 @@
 ![](figures/qr_code.png)
 :::
 
-## Notebooks
+## Учебник
 
+[Borjas, 8th Edition](https://petterini.ufsc.br/files/2025/09/borjas.pdf)
 
-## Time Series Notebooks
+## Colab
+
+- [Regression](https://colab.research.google.com/github/febse/labour/blob/main/notebooks/regression_short_intro.ipynb)
+
