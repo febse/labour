@@ -1,0 +1,5 @@
+measure,group,before,after
+annual_benefit_cad,CPP (rest of Canada),5134,7776
+annual_benefit_cad,QPP (Quebec),6876,7852
+pct_men_45_59_not_employed,CPP (treatment),20.0,21.7
+pct_men_45_59_not_employed,QPP (control),25.6,24.6
